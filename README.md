@@ -4,8 +4,8 @@ Project page for **Monitoring Election Discourse with a Synthetic Media Observat
 
 Victor Livernoche, Jacob-Junqi Tian, Andreea Musulan, Jean-François Godbout, Reihaneh Rabbany
 
-- Project page: https://vicliv.github.io/synthetic-media-observatory/
-- Live dashboard (while the deployment runs): https://election-trends.ai4.institute/
+- Project page: https://vicliv.github.io/media-observatory/
+- Live dashboard (while the deployment runs): https://media-observatory.ai4.institute/
 - Paper: [paper.pdf](paper.pdf)
 - Demo video: [media/demo.mp4](media/demo.mp4)
 
